@@ -1,0 +1,6 @@
+[
+  {"note": 60, "velocity": 100, "duration": 50},
+  {"note": 64, "velocity": 75, "duration": 100},
+  {"note": 67, "velocity": 50, "duration": 150},
+  {"note": 72, "velocity": 25, "duration": 200}
+]
